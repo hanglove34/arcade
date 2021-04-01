@@ -1,0 +1,6 @@
+for linux:
+install sfml and allegro
+
+do :
+- make all
+- ./arcade ./lib_arcade_sfml.so
